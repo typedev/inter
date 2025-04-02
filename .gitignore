@@ -13,6 +13,7 @@ _*.ignore
 *.sublime*
 **/*.glyphspackage/UIState.plist
 **/*(Autosaved).glyphs
+**/*(Autosaved)*.*
 .DS_Store
 nohup.out
 .vscode/
