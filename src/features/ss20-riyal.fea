@@ -4,9 +4,13 @@ exclam quotedbl numbersign dollar percent ampersand quotesingle parenleft parenr
 ];
 
 	featureNames {
-		name "Saudi Riyal Symbol";
+		name "Riyal and Dirham";
 		# name 1 0 0 "Saudi Riyal Symbol";
     };
     ignore sub @letters S' A' R';
     ignore sub S' A' R' @letters;
     sub S' A' R' by riyal; 
+    
+    ignore sub @letters A' E' D';
+    ignore sub A' E' D' @letters;
+    sub A' E' D' by dirham;

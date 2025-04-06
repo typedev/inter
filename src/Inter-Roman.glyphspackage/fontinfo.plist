@@ -2464,7 +2464,9 @@ quotedblright.ss08,
 quoteleft.ss08,
 quoteright.ss08,
 quotereversed.ss08,
-quotedblreversed.ss08
+quotedblreversed.ss08,
+riyal,
+dirham
 );
 },
 {
