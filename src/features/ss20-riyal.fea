@@ -6,4 +6,4 @@
     ignore sub @letters S' A' R';
     ignore sub S' A' R' @letters;
     sub S' A' R' by riyal; 
-    
+
